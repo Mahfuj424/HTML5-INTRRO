@@ -1,0 +1,11 @@
+nav ul li{
+    display:inline;
+    margin-right: 10px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+nav li:hover{
+    background-color: gray;
+}
